@@ -1,0 +1,12 @@
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('Helena', 'Experience Helena', 'Queen City of the Rockies', '1864-10-30', 28190, 'Helenian');
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('Columbus', 'Theres No Better Place', 'Cowtown', '1816-02-10', 787033, 'Columbusite');
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('Sacramento', 'Indomitable City', 'Sactown', '1850-02-27', 466488, 'Sacramentan');
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('Austin', 'Keep Austin Weird', 'Live Music Capital of the World', '1839-12-27', 790390, 'Austinite');
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('Raleigh', 'Raleighs For You', 'City of Oaks', '1792-12-31', 403892, 'Raleighite');
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('Honolulu', 'Haaheo No O Honolulu - The Pride of Honolulu', 'Crossroads of the Pacific', '1907-04-30', 337256, 'Honolulan');
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('New York City', 'The City That Never Sleeps', 'The Big Apple', '1898-01-01', 8175133, 'New Yorker');
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('Juneau', 'Alaskas Capital City', 'None', '1900-01-01', 31275, 'Juneauvian');
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('Columbia', 'Justitia Virtutum Regina', 'None', '1786-03-22', 129272, 'Columbian');
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('Springfield', 'Home of President Abraham Lincoln', 'The Long Nine', '1832-04-02', 116250, 'Springfielder');
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('Salem', 'Absolutely Oregon', 'Cherry City', '1842-01-01', 154637, 'Salemite');
+insert into US_State_Capitals (name, motto, nickname, incorporated, population, demonym) values ('Bismarck', 'Liberty Now and Forever', 'None', '1832-04-02', 61272, 'Bismarckian');

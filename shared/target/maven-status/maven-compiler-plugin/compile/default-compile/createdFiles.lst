@@ -1,0 +1,4 @@
+edu\ait\capitalservice\SpringFoxConfig.class
+edu\ait\stateservice\dto\State.class
+edu\ait\stateservice\SpringFoxConfig.class
+edu\ait\capitalservice\dto\Capital.class

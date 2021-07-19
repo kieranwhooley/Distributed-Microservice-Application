@@ -1,0 +1,12 @@
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('Montana', 'MT', '1889-11-08', 'Big Sky Country', 1068778, 'Mountain');
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('Ohio', 'OH', '1803-03-01', 'The Buckeye State', 11689100, 'Eastern');
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('California', 'CA', '1850-09-09',  'Golden State', 39368078,'Pacific');
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('Texas', 'TX', '1845-12-29', 'The Lone Star State', 29360759, 'Central');
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('North Carolina', 'NC', '1789-11-21', 'The Tar Heel State', 10488084, 'Eastern');
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('Hawaii', 'HI', '1959-08-21', 'The Aloha State', 1415872, 'Hawaii-Aleutian');
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('New York', 'NY', '1788-07-26', 'The Empire State', 19336776, 'Eastern');
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('Alaska', 'AK', '1959-01-03', 'The Last Frontier', 710249, 'Alaskan');
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('South Carolina', 'SC', '1788-05-23', 'The Palmetto State', 5148714, 'Eastern');
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('Illinois', 'IL', '1818-12-03', 'Land of Lincoln', 12671821, 'Central');
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('Oregon', 'OR', '1859-02-14', 'The Beaver State', 4217737, 'Pacific');
+insert into US_States (name, abbreviation, founded, nickname, population, timezone) values ('North Dakota', 'ND', '1889-11-02', 'Peace Garden State', 762062, 'Central');
