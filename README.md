@@ -6,7 +6,7 @@ The application returns information relating to US States and US State Capitals.
 
 It is made up of the following components:
 
-• **REST** based microservices built with **Spring Web** and **Spring JPA**<br />
+• REST based microservices built with **Spring Web** and **Spring JPA**<br />
 • Data populated on start-up using an in-memory **H2 Database** <br />
 • Configuration management with **Spring Cloud Config** (File System backend) <br />
 • Service discovery with **Spring Cloud Netflix Eureka** <br />
