@@ -6,8 +6,8 @@ The repo has basic CRUD functionality and uses an in-memory H2 database on start
 
 The application is made up of the following components:
 
-• REST based microservices for US States and US State Capitals built with Spring Web and Spring JPA using in memory H2 Database
-• Configuration management with Spring Cloud Config (File System backend)
-• Service discovery with Spring Cloud Netflix Eureka
-• API gateways with Spring Cloud Netflix Zuul
+• REST based microservices for US States and US State Capitals built with Spring Web and Spring JPA using in memory H2 Database <br />
+• Configuration management with Spring Cloud Config (File System backend) <br />
+• Service discovery with Spring Cloud Netflix Eureka <br />
+• API gateways with Spring Cloud Netflix Zuul <br />
 • Distributed Tracing and Logging with Spring Cloud Sleuth and Zipkin
