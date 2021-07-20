@@ -12,7 +12,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 
 @Configuration
 public class SpringFoxConfig {
-    public static final Contact CUSTOM_CONTACT = new Contact("Kieran Whooley", "www.ait.ie", "A00279690@student.ait.ie");
+    public static final Contact CUSTOM_CONTACT = new Contact("Kieran Whooley", "www.ait.ie", "fakeemail@mail.com");
     public static final ApiInfo CUSTOM_API_INFO = new ApiInfoBuilder().title("US State Service")
             .description("A list of US States")
             .version("1.0")
